@@ -9,3 +9,7 @@ don't starve
 
 # Demo
 ![11](https://user-images.githubusercontent.com/48798922/106348639-fcfa0a80-630a-11eb-8528-dd0379c08839.gif)
+
+1. 아이템 검색기능
+2. 게임의 탭별로 정리 [미완]
+3. 콘솔 더블클릭시 해당 아이템 c_give명령어로 10개 클립보드에 복사 [추후에 갯수 설정 추가 예정]
